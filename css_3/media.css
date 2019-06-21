@@ -1,0 +1,26 @@
+@media screen and (max-width:768px) {
+	.left_main_menu{
+		margin-left: -190px;
+	}
+	.left_main_menu:hover{
+		margin-left: 0px;
+	}
+	
+	.left_main_accord .top_fst_menu .panel-heading .panel-title>a::before {
+		float: right;
+		margin-right: 0px;
+	}
+	
+	.left_main_menu:hover .left_main_accord .top_fst_menu .panel-heading .panel-title>a::before{
+		float: left;
+		margin-right: 12px;
+	}
+	
+}
+
+
+
+
+	
+
+
